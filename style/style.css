@@ -1,0 +1,42 @@
+/* CSS Document */
+
+.second_row{
+font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; background-color:#999999; cursor:pointer}
+.second_row_table{
+background-color:#A4A4A4}
+.first_row{
+font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; background-color:#8888FF; color:#FFFFFF;}
+.front_desk{
+background-color:#616161;}
+.front_desk_second_row{
+font-family:Verdana, Arial, Helvetica, sans-serif; font-size:16px; color:#000000; background-color:#00FFFF}
+.front_desk_second_row_time{
+font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
+.front_desk_middle_row{
+background-color:#FFFFFF;}
+.front_desk_second_row_font{
+font-size:12px;}
+.front_desk_footer_occu{
+color:#FF22FF; font-weight:bold;}
+.front_desk_footer_avlbl{
+color:#008000; font-weight:bold;}
+.front_desk_footer_total{
+color:#FFFFFF; font-weight:bold;}
+.front_desk_footer_blocked{
+color:#A2A2A2; font-weight:bold;}
+.front_desk_footer_uncleaned{
+color:#9B4E00; font-weight:bold;}
+.check_in_second_row{
+font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#003; background-color:#EFEAEF;}
+.check_in_header{
+font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
+.check_in_header_row{
+background-color:#ECD5EC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
+.advance{
+background-color:#FFFFFF; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
+.advance_first_row{
+ background-color:#CCCCCC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
+ .check_out{
+ background-color:#B9B9B9; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
+ .Active{
+ color:#333333;}
